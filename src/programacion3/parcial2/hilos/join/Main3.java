@@ -2,6 +2,10 @@ package programacion3.parcial2.hilos.join;
 
 
 public class Main3 {
+
+    /*
+     * @authors Nicolás Jurado Ramirez y Juan Manuel Tunubala
+     */
     public static void main(String[] args) throws InterruptedException {
 
         T1 t1 = new T1( );
